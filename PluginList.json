@@ -3,5 +3,10 @@
         "PluginName": "Blowfish & AES Encryption and Decryption",
         "PluginLink": "https://github.com/developer-krushna/Modder_Hub_Plugins/releases/download/Plugins/plugin.zip",
         "AboutPlugin": "Encryption and Decryption with AES abd Blowfish"
+    },
+    {
+        "PluginName": "AES Encryption and Decryption",
+        "PluginLink": "https://github.com/developer-krushna/Modder_Hub_Plugins/releases/download/Plugins/AES-Encryption-Plugin.zip",
+        "AboutPlugin": "Encryption and Decryption with AES MD5 algorithm, AES CBC and AES SHA-256 algorithm"
     }
 ]
